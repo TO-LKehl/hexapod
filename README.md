@@ -1,2 +1,2 @@
 # hexabot
-for information visit lucakehl.de/projects/hexabot
+for information visit lucakehl.de/projects/hexapod
